@@ -1,0 +1,52 @@
+2021-12-13 17:12:789 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:557 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:468 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:684 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:409 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:831 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:154 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:471 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:401 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:319 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:869 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:923 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:595 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 17:12:490 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 18:12:861 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 18:12:496 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 18:12:940 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:78 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:817 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 19:12:20 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:701 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:726 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:348 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:602 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:633 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:395 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:549 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:178 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:122 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:982 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 20:12:15 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 21:12:901 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 21:12:432 INFO  HomePage :52 - Clicking on top meny tab  Women
+2021-12-13 21:12:891 INFO  WomenCategoryPage :30 - Verifying Women text [[ChromeDriver: chrome on WINDOWS (fb5e747efbc37aba45c76b7bb03dd633)] -> xpath: //span[@class='category-name']]
+2021-12-13 21:12:515 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 21:12:61 INFO  HomePage :52 - Clicking on top meny tab  Women
+2021-12-13 21:12:108 INFO  WomenCategoryPage :35 - Clicking on product  [[ChromeDriver: chrome on WINDOWS (8a6661355af4cbf2f0d47a983b629f4f)] -> xpath: //a[@class='product-name']]
+2021-12-13 21:12:155 INFO  ProductPage :50 - Changing quantity  [[ChromeDriver: chrome on WINDOWS (8a6661355af4cbf2f0d47a983b629f4f)] -> id: quantity_wanted]
+2021-12-13 21:12:218 INFO  ProductPage :55 - Selecting size from dropdown  [[ChromeDriver: chrome on WINDOWS (8a6661355af4cbf2f0d47a983b629f4f)] -> id: group_1]
+2021-12-13 21:12:270 INFO  ProductPage :60 - Clicking on colour  [[ChromeDriver: chrome on WINDOWS (8a6661355af4cbf2f0d47a983b629f4f)] -> class: attribute_list]
+2021-12-13 21:12:335 INFO  ProductPage :65 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (8a6661355af4cbf2f0d47a983b629f4f)] -> xpath: //span[contains(text(),'Add to cart')]]
+2021-12-13 21:12:364 INFO  ProductPage :70 - Verifying product added to cart message  [[ChromeDriver: chrome on WINDOWS (8a6661355af4cbf2f0d47a983b629f4f)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2021-12-13 21:12:203 INFO  ProductPage :75 - Clicking on close button on pop up  [[ChromeDriver: chrome on WINDOWS (8a6661355af4cbf2f0d47a983b629f4f)] -> xpath: //span[@title='Close window']]
+2021-12-13 21:12:831 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-13 21:12:322 INFO  HomePage :52 - Clicking on top meny tab  Women
+2021-12-13 21:12:356 INFO  WomenCategoryPage :35 - Clicking on product  [[ChromeDriver: chrome on WINDOWS (4441e5a3974d64126833e3d0073504ba)] -> xpath: //a[@class='product-name']]
+2021-12-13 21:12:401 INFO  ProductPage :50 - Changing quantity  [[ChromeDriver: chrome on WINDOWS (4441e5a3974d64126833e3d0073504ba)] -> id: quantity_wanted]
+2021-12-13 21:12:468 INFO  ProductPage :55 - Selecting size from dropdown  [[ChromeDriver: chrome on WINDOWS (4441e5a3974d64126833e3d0073504ba)] -> id: group_1]
+2021-12-13 21:12:514 INFO  ProductPage :60 - Clicking on colour  [[ChromeDriver: chrome on WINDOWS (4441e5a3974d64126833e3d0073504ba)] -> class: attribute_list]
+2021-12-13 21:12:566 INFO  ProductPage :65 - Clicking on Add to cart button  [[ChromeDriver: chrome on WINDOWS (4441e5a3974d64126833e3d0073504ba)] -> xpath: //span[contains(text(),'Add to cart')]]
+2021-12-13 21:12:593 INFO  ProductPage :70 - Verifying product added to cart message  [[ChromeDriver: chrome on WINDOWS (4441e5a3974d64126833e3d0073504ba)] -> xpath: //h2[normalize-space()='Product successfully added to your shopping cart']]
+2021-12-13 21:12:320 INFO  ProductPage :75 - Clicking on close button on pop up  [[ChromeDriver: chrome on WINDOWS (4441e5a3974d64126833e3d0073504ba)] -> xpath: //span[@title='Close window']]
