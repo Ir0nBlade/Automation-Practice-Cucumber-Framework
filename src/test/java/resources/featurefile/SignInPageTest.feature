@@ -3,11 +3,11 @@ Feature: Sign In page
   Background: I am on homepage
     And I click on Sign In link
 
-#  @Smoke
+  @Smoke @Regression
   Scenario: User should navigate to sign in page successfully
     Then  I am on Sign In Page successfully
 
-  @Sanity
+  @Sanity @Regression
   Scenario Outline: Verify the error message with invalid credentials
     When  I enter "<Username>" in username field and "<Password>" into password field
     And   I click on 'Sign In' button
@@ -20,7 +20,7 @@ Feature: Sign In page
       | abcd@gmail.com | 123456   | Authentication failed.     |
 
 
-#  @Regression
+  @Regression
   Scenario: Verify user should login successfully with valid credentials
     When  I enter 'Username' in username field
     And   I enter 'Password' in password field

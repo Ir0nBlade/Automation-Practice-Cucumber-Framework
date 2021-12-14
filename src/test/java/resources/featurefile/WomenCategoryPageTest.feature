@@ -3,7 +3,7 @@ Feature: Women Category Page
   Background: I am on Homepage
     And I click on 'Women' tab
 
-  @Smoke
+  @Smoke @Regression
   Scenario: Verify user should navigagte to women cagtagory page successfully
     Then I am on 'Women' page successfully
 
